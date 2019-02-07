@@ -1,3 +1,4 @@
+multicore
 CTD
 plankton net
 niskin bottles
